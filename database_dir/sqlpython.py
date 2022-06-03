@@ -65,7 +65,7 @@ import mysql.connector
 
 
 
-# -------- Create table in database -----------
+# -------- Insert data database -----------
 # mydb = mysql.connector.connect(
 #   host="localhost",
 #   user="root",
