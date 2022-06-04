@@ -27,4 +27,4 @@ greet()
 
 # NOTES - In Python Decorator is function
       # - Also take function as an argument
-      # - and it return also decorator
+      # - and it return also function
