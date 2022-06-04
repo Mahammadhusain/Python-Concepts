@@ -21,7 +21,7 @@ class Student:
 
 # Student.tostring() # Call class method using (Name of class)
 # s= Student 
-# s.tostring() # Call class method using 
+# s.tostring() # Call class method using calss object 
 
 # @classmethod can not access instance property
 class Student:
